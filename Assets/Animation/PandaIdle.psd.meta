@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 01168e58fe2467b488ddacc674987f2e
+timeCreated: 1470410224
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: PandaIdle_0
+    21300002: PandaIdle_1
+    21300004: PandaIdle_2
+    21300006: PandaIdle_3
+    21300008: PandaIdle_4
+    21300010: PandaIdle_5
+    21300012: PandaIdle_6
+    21300014: PandaIdle_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PandaIdle_0
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 0
+        width: 207
+        height: 255
+      alignment: 9
+      pivot: {x: 0.540962, y: 0.46009836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: PandaIdle_1
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 0
+        width: 240
+        height: 255
+      alignment: 9
+      pivot: {x: 0.45760447, y: 0.46009836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: PandaIdle_2
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 0
+        width: 228
+        height: 255
+      alignment: 9
+      pivot: {x: 0.40330854, y: 0.46674865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: PandaIdle_3
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 0
+        width: 207
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5491545, y: 0.46674865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: PandaIdle_4
+      rect:
+        serializedVersion: 2
+        x: 1112
+        y: 1
+        width: 207
+        height: 254
+      alignment: 9
+      pivot: {x: 0.44265348, y: 0.45994118}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: PandaIdle_5
+      rect:
+        serializedVersion: 2
+        x: 1344
+        y: 0
+        width: 240
+        height: 255
+      alignment: 9
+      pivot: {x: 0.55652773, y: 0.46009836}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: PandaIdle_6
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 0
+        width: 228
+        height: 255
+      alignment: 9
+      pivot: {x: 0.5892537, y: 0.46674865}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    - serializedVersion: 2
+      name: PandaIdle_7
+      rect:
+        serializedVersion: 2
+        x: 1934
+        y: 1
+        width: 207
+        height: 254
+      alignment: 9
+      pivot: {x: 0.48361546, y: 0.48664707}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
